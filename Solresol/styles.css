@@ -1,0 +1,76 @@
+body{
+    font-family: Ubuntu;
+}
+
+.encabezados{
+    size: 20px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+.contenido{
+    line-height: 25px;
+}
+
+a{
+    color: #002366;
+    text-decoration: underline;
+}
+
+.do{
+    background-color: #f80000;
+    border: 2px solid black;
+}
+
+.re{
+    background-color: #ff6d00;
+    border: 2px solid black;
+}
+
+.mi{
+    background-color:#ffff00;
+    border: 2px solid black;
+}
+
+.fa{
+    background-color: #00ff00;
+    border: 2px solid black;
+}
+
+.sol{
+    background-color: #0cb7f2;
+    border: 2px solid black;
+}
+
+.la{
+    background-color: #0d33b3;
+    border: 2px solid black;
+}
+
+.si{
+    background-color:#f400a1 ;
+    border: 2px solid black;
+}
+
+.mensaje{
+    font-weight: 700;
+    letter-spacing: normal;
+}
+
+.espacio{
+  margin-left: 10px; /* Ajusta el valor según el espacio deseado */
+}
+
+footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    clear: both;
+}
